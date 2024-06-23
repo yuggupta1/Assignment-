@@ -1,0 +1,41 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Stylish Web Page</title>
+    <link rel="stylesheet" href="style.css">
+</head>
+<body>
+    <header>
+        <div class="logo">
+            <img src="images/logo.svg" alt="Website Logo">
+        </div>
+        <button class="try-it-free">Try It Free</button>
+    </header>
+    <main>
+        <div class="content">
+            <h1>Build The Community Your Fans Will Love</h1>
+            <p>Huddle re-imagines the way we build communities. You have a voice, but so does your audience. Create connections with your users as you engage in genuine discussion.</p>
+        </div>
+        <div class="button-container">
+            <button class="Get-Started-For-Free">Get Started For Free</button>
+        </div>
+        <div class="image-container">
+            <img src="images/screen-mockups.svg" alt="Mobile Phone">
+        </div>
+        <div class="side-images">
+            <div class="community">
+                <img src="images/icon-communities.svg" alt="Community icon">
+                <h1>1.4k+</h1>
+                <p>Communities Formed</p>
+            </div>
+            <div class="message-image-container">
+                <img src="images/icon-messages.svg" alt="Message icon">
+                <h1>2.7M+</h1>
+                <p>Messages Sent</p>
+            </div>
+        </div>
+    </main>
+</body>
+</html>
